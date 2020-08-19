@@ -1,5 +1,6 @@
 title: Email Charter
 description: 10 rules to prevent email overload
+logo: /icons/internet-mail.png
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
