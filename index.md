@@ -2,7 +2,7 @@
 title: Email Charter
 ---
 # The Problem
-#### Everybody can suffer from 'email overload'. To prevent that, we have the Email Charter. Feel free to [add it to your email signature](#add-to-email-signature).
+#### Everybody can suffer from 'email overload'. To prevent that, the Email Charter provides some emailing guidance. Feel free to [add the Email Charter to your email signature](#add-to-email-signature).
 
 ---
 
