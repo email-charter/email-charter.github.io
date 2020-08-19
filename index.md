@@ -11,9 +11,9 @@ The below is an *adapted* version of the Email Charter originally created in res
 ---
 
 ### 1. NNTR / EOM
-If your email message doesn't require a reply, add NNTR ("No need to respond") to the Subject line or the end of your message.
+If your email message doesn't require a reply, add **NNTR** ("No need to respond") to the Subject line or the end of your message.
 
-If your message can be expressed in half a dozen words, just put it in the subject line, followed by EOM (= End of Message). This saves the recipient having to open the message.
+If your message can be expressed in half a dozen words, just put it in the subject line, followed by **EOM** (= End of Message). This saves the recipient having to open the message.
 
 ### 2. Respect Recipients’ Time
 As the sender, it is on you to minimize the time the email will take to process.
