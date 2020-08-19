@@ -2,11 +2,13 @@
 title: Email Charter
 ---
 # The Problem
-#### Everybody can suffer from 'email overload'. To prevent that, the Email Charter provides some emailing guidance. Feel free to [add the Email Charter to your email signature](#add-to-email-signature).
+### Email overload
 
 ---
 
 # The Solution
+### The Email Charter provides 10 rules to prevent email overload. Feel free to [add the Email Charter to your email signature](#add-to-email-signature).
+
 ### 1. NNTR / EOM
 If your email message doesn't require a reply, add NNTR ("No need to respond") to the Subject line or the end of your message.
 
