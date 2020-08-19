@@ -1,6 +1,10 @@
 ---
 title: Email Charter
 ---
+# About
+The below is an *adapted* version of the Email Charter originally created in response to widespread acknowledgement that email is getting out of hand for many people. 
+It started life as a [blog post](http://web.archive.org/web/20150315012653/http://tedchris.posthaven.com/help-create-an-email-charter) by TED Curator Chris Anderson and TED Scribe Jane Wulf. The idea struck a chord. More than 45,000 people read the post and and it generated hundreds of Tweets, comments and suggestions. That is how the final Charter was shaped. Some of the key contributors are listed [here](http://web.archive.org/web/20150315012653/http://emailcharter.org/comments.html).
+
 # The Problem:
 ### Email "overload"
 
