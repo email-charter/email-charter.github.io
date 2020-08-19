@@ -2,7 +2,7 @@
 title: Email Charter
 ---
 # The Problem
-### Email overload
+### Email "overload"
 
 ---
 
