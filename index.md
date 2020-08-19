@@ -1,3 +1,4 @@
+<title>Email Charter</title>
 # The Problem
 #### Everybody can suffer from 'email overload'. To prevent that, we have the Email Charter. Feel free to [add it to your email signature](#add-to-email-signature).
 
