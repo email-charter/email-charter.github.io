@@ -4,3 +4,4 @@ logo: /icons/internet-mail.png
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+google_analytics: "UA-119326789-3"
