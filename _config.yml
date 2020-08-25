@@ -5,3 +5,5 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 google_analytics: "UA-119326789-3"
+plugins:
+  - jekyll-sitemap
