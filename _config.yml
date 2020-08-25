@@ -7,3 +7,4 @@ github:
 google_analytics: "UA-119326789-3"
 plugins:
   - jekyll-sitemap
+url: "https://email-charter.github.io/home/"
