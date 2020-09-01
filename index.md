@@ -48,4 +48,4 @@ If we all agree to spend less time doing email, we’d all get less email. Consi
 
 ### Copy the following line into your email signature to reference the Email Charter
 
-> Save our inboxes - [Read the Email Charter](https://email-charter.github.io/home/)
+> Save our inboxes - [Read the Email Charter](https://email-charter.github.io/)
