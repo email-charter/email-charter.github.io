@@ -8,4 +8,5 @@ google_analytics: "UA-119326789-3"
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 url: "https://email-charter.github.io"
