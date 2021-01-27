@@ -5,7 +5,6 @@ theme: jekyll-theme-minimal
 github:
   is_user_page: false
 google_analytics: "UA-119326789-3"
-gtag: "G-728SKRWJZE"
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
