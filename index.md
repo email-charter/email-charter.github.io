@@ -2,13 +2,7 @@
 title: Email Charter
 redirect_from: "/home/"
 ---
-<details>
-  <summary><h3>About</h3></summary>
-  
-  Below is an *adapted* version of the Email Charter created in response to widespread acknowledgement that email is getting out of hand for many people. The original  started as a [blog post](http://web.archive.org/web/20150315012653/http://tedchris.posthaven.com/help-create-an-email-charter) by TED Curator Chris Anderson and TED Scribe Jane Wulf. Some contributors to the original Charter are listed [here](http://web.archive.org/web/20150315012653/http://emailcharter.org/comments.html).
-</details>  
-
-  ## About
+## About
 Below is an *adapted* version of the Email Charter created in response to widespread acknowledgement that email is getting out of hand for many people. The original  started as a [blog post](http://web.archive.org/web/20150315012653/http://tedchris.posthaven.com/help-create-an-email-charter) by TED Curator Chris Anderson and TED Scribe Jane Wulf. Some contributors to the original Charter are listed [here](http://web.archive.org/web/20150315012653/http://emailcharter.org/comments.html).
 
 ---
