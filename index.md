@@ -2,16 +2,7 @@
 title: Email Charter
 redirect_from: "/home/"
 ---
-## About
-Below is an *adapted* version of the Email Charter created in response to widespread acknowledgement that email is getting out of hand for many people. The original  started as a [blog post](http://web.archive.org/web/20150315012653/http://tedchris.posthaven.com/help-create-an-email-charter) by TED Curator Chris Anderson and TED Scribe Jane Wulf. Some contributors to the original Charter are listed [here](http://web.archive.org/web/20150315012653/http://emailcharter.org/comments.html).
-
----
-
-### Feel free to [add the Email Charter to your email signature](#add-to-email-signature).
-
----
-
-Where you see the link icon (🔗 ), click to copy the direct link to that section.
+Click the icon (🔗 ) to copy the link to that section.
 
 ### 1. NNTR / EOM <input id="link1" type="button" value="🔗" title="Click to Copy"/>
 If your email message doesn't require a reply, add **NNTR** ("No need to respond") to the Subject line or the end of your message.
