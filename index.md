@@ -41,3 +41,7 @@ If we all agree to spend less time doing email, we’d all get less email. Consi
 ### Copy the following line into your email signature to reference the Email Charter
 
 > Save our inboxes - [Read the Email Charter](https://email-charter.github.io/)
+
+---
+<p><a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="" /> </a></p>
+<p><a href="https://gitreports.com/issue/b-kennedy0/email-charter.github.io" target="_blank" rel="noopener">Suggestions</a></p>
