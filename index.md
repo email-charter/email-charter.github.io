@@ -3,12 +3,12 @@ title: Email Charter
 redirect_from: "/home/"
 ---
 ### 1. NNTR / EOM
-If your email message doesn't require a reply, add **NNTR** ("No need to respond") to the Subject line or the end of your message.
+If your email message doesn't require a reply, add **NNTR** (No need to respond) to the Subject line or the end of your message.
 
-If your message can be expressed in half a dozen words, just put it in the subject line, followed by **EOM** (= End of Message). This saves the recipient having to open the message.
+If your message can be expressed in half a dozen words, just put it in the subject line, followed by **EOM** (End of Message). This saves the recipient having to open the message.
 
 ### 2. Respect Recipients’ Time
-As the sender, it is on you to minimize the time the email will take to process.
+As the sender, it is on you to minimise the time the email will take to process.
 
 ### 3. Attack Attachments
 Don’t use graphics files as logos, or signatures that appear as attachments. Instead [insert the image from URL](https://www.mail-signatures.com/articles/insert-internetlinked-image-outlook-signature/) - this will prevent the image being included as an attachment. Time is wasted trying to see if there’s something to open (it also takes more server power to send - which isn't great for the environment!).
