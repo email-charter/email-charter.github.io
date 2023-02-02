@@ -12,7 +12,7 @@ As the sender, you must minimise the time the email will take to process. Consid
 
 **TLDR** - Too Long Didn't Read. **BLUF** - Bottom Line Up Front. 
 
-E.g. "TLDR: Inspection is Wednesday, need audit files prepared." / "BLUF: Need to see a draft of X by Friday."
+> E.g. "TLDR: Inspection is Wednesday, need audit files prepared." / "BLUF: Need to see a draft of X by Friday."
 
 ### 3. Attack Attachments
 Don't use graphics files as logos or signatures that appear as attachments. Instead, [insert the image from URL](https://www.mail-signatures.com/articles/insert-internetlinked-image-outlook-signature/) - this prevents the image from being included as an attachment. Time is wasted trying to see if there's something to open (it also takes more server power to send - which isn't great for the environment!).
@@ -24,10 +24,14 @@ You don't need to reply to every email, especially not those that are themselves
 Just because you can respond fast doesn't mean you should. It is okay if replies take a while to come. Please don't take it personally.
 
 ### 6. Make Subject Lines and Content Clear 
-Start with a subject line that clearly labels the topic. Try including a status category [Info], [Action], [Time Sens], [Low Priority]. Use crisp, muddle-free sentences. If the email has to be longer than [five sentences](http://five.sentenc.es/), ensure the first provides the primary reason for writing. Avoid strange fonts and colours.
+Start with a subject line that clearly labels the topic. Try including a status category 
+> [Info], [Action], [Time Sens], [Low Priority]  
+
+Use crisp, muddle-free sentences. If the email has to be longer than [five sentences](http://five.sentenc.es/), ensure the first provides the primary reason for writing. Avoid strange fonts and colours.
 
 ### 7. Stop Open-Ended Questions
-It isn't helpful to send four long paragraphs followed by "Thoughts?". Even well-intended but open questions like "How can I help?" may not be that helpful. Email generosity requires simplifying easy-to-answer questions. "Can I help best by a) calling, b) visiting or c) staying out of it?!"
+It isn't helpful to send four long paragraphs followed by "Thoughts?". Even well-intended but open questions like "How can I help?" may not be that helpful. Email generosity requires simplifying easy-to-answer questions. 
+> "Can I help best by a) calling, b) visiting or c) staying out of it?!"
 
 ### 8. Slash Surplus CCs
 CCs are like mating bunnies. You are dramatically multiplying the total response time for every recipient you add. Not to be done lightly! Please don't default to 'Reply All' when there are multiple recipients. You may only need to CC a couple of people on the original thread. Or none.
