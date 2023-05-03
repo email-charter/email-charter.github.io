@@ -7,12 +7,12 @@ If your email message doesn't require a reply, add **NNTR** (No need to respond)
 
 If your message can be expressed in half a dozen words, just put it in the subject line, followed by **EOM** (End of Message).
 
-### 2. Respect Recipients' Time (TLDR / BLUF)
+### 2. Respect Recipients' Time (TLDR)
 As the sender, you must minimise the time the email will take to process. Consider adding a one-sentence summary at the beginning. 
 
-**TLDR** - Too Long Didn't Read. **BLUF** - Bottom Line Up Front. 
+**TLDR** - Too Long Didn't Read.  
 
-> E.g. "TLDR: Inspection is Wednesday, need audit files prepared." / "BLUF: Need to see a draft of X by Friday."
+> E.g. "TLDR: Inspection is Wednesday, need audit files prepared." / "TLDR: Need to see a draft of X by Friday."
 
 ### 3. Attack Attachments
 Don't use graphics files as logos or signatures that appear as attachments. Instead, [insert the image from URL](https://www.mail-signatures.com/articles/insert-internetlinked-image-outlook-signature/) - this prevents the image from being included as an attachment. Time is wasted trying to see if there's something to open (it also takes more server power to send - which isn't great for the environment!).
