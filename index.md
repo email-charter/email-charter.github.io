@@ -39,14 +39,14 @@ CCs are like mating bunnies. You are dramatically multiplying the total response
 ### 9. Move People from CC to BCC
 Continuing the conversation with a smaller group but still want to keep others in the loop? Move them to BCC. By doing this, you prevent them from receiving unnecessary follow-ups, while still keeping them informed of the initial communication. It's an efficient way to reduce email clutter. When using BCC, it's courteous to mention it in the body of the email. Start with "BCC: [names]" as the first line to ensure transparency.
 
+You can include a link to the rules afterwards: 
+> `-` reducing emails by following the [Email Charter](https://email-charter.github.io/)
+
 ### 10. Tighten the Thread
 Some emails depend on context for their meaning, which generally means it's right to include the thread. However, it should rarely extend to more than three emails. Before replying, cut any of the irrelevant text, or consider making a phone call instead.
 
 ### 11. Disconnect
 If we all agree to spend less time doing email, we'd all get less email. Consider blocking out time at work where you don't go online. Or commit to email-free weekends. Add an auto-responder in your off time that references this charter (see below).
-
-You can include a link to the rules afterwards: 
-> `-` reducing emails by following the [Email Charter](https://email-charter.github.io/)
 
 ---
 
