@@ -15,7 +15,11 @@ As the sender, you must minimise the time the email will take to process. Consid
 > E.g. "TLDR: Inspection is Wednesday, need audit files prepared." / "TLDR: Need to see a draft of X by Friday."
 
 ### 3. Attack Attachments
+Consider if the attachment is needed - for example, is it already uploaded to an online repository (Google Drive, OneDrive, Dropbox, Sharepoint), could you add the user as a collaborator on the file? Or allow viewing access via a link? This reduces the size of your email both in terms of file size and the time it takes to process.
+
 Don't use graphics files as logos or signatures that appear as attachments. Instead, [insert the image from URL](https://www.mail-signatures.com/articles/insert-internetlinked-image-outlook-signature/) - this prevents the image from being included as an attachment. Time is wasted trying to see if there's something to open (it also takes more server power to send - which isn't great for the environment!).
+
+If you use embedded images, consider their accessibility. Ensure you add alt-text/descriptive text to images so that screen readers can read them out. Here are instructions for [Microsoft Outlook](https://support.microsoft.com/en-gb/office/video-improve-image-accessibility-in-email-e93969e3-21c1-47ad-a4c5-0e5fb868a7f8), and general instructions [irrespective of email provider](https://www.audioeye.com/post/the-surprising-gap-in-email-accessibility/).
 
 ### 4. Cut Contentless Responses
 You don't need to reply to every email, especially not those that are themselves clear responses. An email saying "Thanks for your note. I'm in." does not need you to reply "Great." That just cost someone another 30 seconds.
