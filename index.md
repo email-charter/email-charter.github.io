@@ -63,5 +63,5 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
 ---
 <br>
 <br>
-<p><a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="" /> </a></p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="Creative Commons Badge Logo" /> </a></p>
 <p><a href="https://github.com/email-charter/email-charter.github.io/issues/new/choose" target="_blank" rel="noopener">Suggestions</a></p>
