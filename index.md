@@ -56,9 +56,15 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
 
 # Add to Email Signature 
 
-### Copy the following line into your email signature to reference the Email Charter
+### Copy any of the following suggestions into your email signature to reference the Email Charter
 
-> Save our inboxes - [Read the Email Charter](https://email-charter.github.io/)
+<span style="color: green;">Save our inboxes - </span><a href="https://email-charter.github.io/">Read the Email Charter</a>
+
+<span style="color: green;">Short, direct email? Find out more about the </span><a href="https://email-charter.github.io/">Email Charter</a>
+
+<span style="color: green;">Consider if a reply is required - Find out more here: </span><a href="https://email-charter.github.io/">Email Charter</a>
+
+<span style="color: green;"> –– reducing emails by following the </span><a href="https://email-charter.github.io/">Email Charter</a>
 
 ---
 <br>
