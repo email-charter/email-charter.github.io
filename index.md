@@ -33,6 +33,10 @@ Start with a subject line that clearly labels the topic. Try including a status 
 
 Use crisp, muddle-free sentences. If the email has to be longer than [five sentences](http://five.sentenc.es/), ensure the first provides the primary reason for writing. Avoid strange fonts and colours.
 
+Use these [plain English](https://www.kent.ac.uk/guides/plain-english) tips to save others time AND make your communication more effective.
+
+> TOOL: [Hemingway Editor](https://hemingwayapp.com) – Helps you identify passive voice, lengthy sentences, and complex words.
+
 ### 7. Stop Open-Ended Questions
 It isn't helpful to send four long paragraphs followed by "Thoughts?". Even well-intended but open questions like "How can I help?" may not be that helpful. Email generosity requires simplifying easy-to-answer questions. 
 > "Can I help best by a) calling, b) visiting or c) staying out of it?!"
@@ -56,7 +60,7 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
 
 # Add to Email Signature 
 
-### Copy any of the following suggestions into your email signature to reference the Email Charter
+#### Feel free to copy any of the following suggestions into your email signature to reference the Email Charter
 
 <span style="color: green;">Save our inboxes - </span><a href="https://email-charter.github.io/">Read the Email Charter</a>
 
@@ -65,6 +69,16 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
 <span style="color: green;">Consider if a reply is required - Find out more here: </span><a href="https://email-charter.github.io/">Email Charter</a>
 
 <span style="color: green;"> –– reducing emails by following the </span><a href="https://email-charter.github.io/">Email Charter</a>
+
+#### Add these badges to your email signature for a more visual reference
+
+<span><a href="https://email-charter.github.io/"><img src="https://img.shields.io/badge/Email%20Charter-Learn%20More-blue" alt="Email Charter 10 Rules Badge Logo" /></a></span>
+
+<div style="display: flex; gap: 2px; align-items: center;">
+	<span><a href="https://email-charter.github.io/"><img src="/assets/img/EmailCharter_Badge-fullTransparent.png" width="155" alt="Email Charter Badge 1" /></a></span>
+    <span><a href="https://email-charter.github.io/"><img src="/assets/img/EmailCharter_Badge2-whiteBackground.png" width="130" alt="Email Charter Badge 2" /></a></span>
+    <span><a href="https://email-charter.github.io/"><img src="/assets/img/EmailCharter_Badge3-whiteBackground.png" width="140" alt="Email Charter Badge 3" /></a></span>
+</div>
 
 ---
 <br>
