@@ -80,6 +80,8 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
     <span><a href="https://email-charter.github.io/"><img src="/assets/img/EmailCharter_Badge3-whiteBackground.png" width="140" alt="Email Charter Badge 3" /></a></span>
 </div>
 
+\* Once added to your email signature, just make sure you add the hyperlink back to this page (https://email-charter.github.io/) so that people can learn more!
+
 ---
 <br>
 <br>
