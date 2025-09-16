@@ -70,7 +70,7 @@ If we all agree to spend less time doing email, we'd all get less email. Conside
 
 <span style="color: green;"> –– reducing emails by following the </span><a href="https://email-charter.github.io/">Email Charter</a>
 
-#### Add these badges to your email signature for a more visual reference
+#### Add a badge to your email signature for a more visual reference
 
 <span><a href="https://email-charter.github.io/"><img src="https://img.shields.io/badge/Email%20Charter-Learn%20More-blue" alt="Email Charter 10 Rules Badge Logo" /></a></span>
 
